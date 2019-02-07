@@ -57,7 +57,7 @@ def sum_array(num)
      if x == "feet"
        x 
       else 
-        x.push("s")
+        x << "s"
         
    end 
  end 
